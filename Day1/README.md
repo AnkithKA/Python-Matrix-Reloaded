@@ -4,3 +4,4 @@ Local editor - I Use VS Code with extensions for python
 Access to collab
 # You may use any other notebook editor at your peril - I have not tested.
 All code is fully functional in google collab - VS code might have ASCII error
+Testing
